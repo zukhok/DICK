@@ -1,2 +1,3 @@
-# DICK
-Deep-learning Interactive Course for Kickstarters
+# 硅头训练营
+做AI，练硅头  
+走上科技前列线，争做人类的奋变，扛起社会的挑担
